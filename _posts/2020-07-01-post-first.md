@@ -4,7 +4,7 @@ categories:
   - Blog
   - tech
 tags:
-  -post
+  - post
 ---
 안녕하세요. 오늘은 2020년 7월 2일 입니다.
 블로그를 처음 만들었고, 이건 첫 게시물 입니다.
