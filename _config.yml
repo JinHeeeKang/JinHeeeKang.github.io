@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jinhee Kang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "화이팅"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
