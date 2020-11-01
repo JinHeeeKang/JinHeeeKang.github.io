@@ -6,8 +6,8 @@ categories:
 tags:
   
 ---
----
 
 
-it's project category ㅠㅠㅠㅠㅠㅠㅠㅠ
-~~~~~~~`
+
+it's project category ㅠㅠㅠㅠㅠㅠㅠㅠ 되는거야 마는거야
+
