@@ -1,7 +1,11 @@
 ---
 title: Project test
-layout: category
-taxonomy: project
+
+categories:
+  - project
+tags:
+  
+---
 ---
 
 
