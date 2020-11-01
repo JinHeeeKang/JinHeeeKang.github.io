@@ -1,6 +1,6 @@
 ---
 title: "Posts by Project"
 permalink: /projects/
-layout: categories
+layout: category
 author_profile: true
 ---
