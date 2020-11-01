@@ -2,7 +2,7 @@
 title: "첫 게시물"
 categories:
   - Blog
-  - tech
+
 tags:
   - post
 ---
