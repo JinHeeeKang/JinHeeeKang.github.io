@@ -2,7 +2,7 @@
 title: "리스트 비어 있는지 확인 할때"
 excerpt_separator: "<!--more-->"
 categories:
-  - Python
+  - Python 문법
 tags:
   - Python
   - 문법
