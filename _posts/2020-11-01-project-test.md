@@ -2,12 +2,12 @@
 title: Project test
 
 categories:
-  - project
+
 tags:
   
 ---
 
 
 
-it's project category ㅠㅠㅠㅠㅠㅠㅠㅠ 되는거야 마는거야
+it's project category !! 마지막 테스트 !!
 
