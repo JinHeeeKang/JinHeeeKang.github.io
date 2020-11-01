@@ -1,7 +1,8 @@
 ---
 title: Project test
+excerpt_separator: "<!--more-->"
 layout: category
-permalink: /categories/project/
+permalink: /project/
 taxonomy: project
 ---
 
