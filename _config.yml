@@ -107,6 +107,6 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
-project_archive:
-  type: liquid
-  path: /project/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
