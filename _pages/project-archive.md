@@ -1,6 +1,6 @@
 ---
 title: "Posts by Project"
-permalink: /projects/
+permalink: /categories/projects/
 layout: category
 taxonomy: project
 entries_layout: list #(default), grid
