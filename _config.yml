@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Jinhee Kang"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/IMG_1863.JPG"
   bio    : "차근차근 하나씩 화이팅"
   links:
     - label: "Website"
@@ -86,16 +86,16 @@ footer:
 
 defaults:
   # _posts
-  - scope:
-      path: "/categories/"
-      type: liquid #posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: true
+#       share: true
+#       related: true
   # _pages
   - scope:
       path: "_pages"
