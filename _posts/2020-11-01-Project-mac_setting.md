@@ -20,7 +20,7 @@ tags:
 - - -   
 
 # 1. .pem 파일 .ssh 폴더로 옮기기
-
+```
  1. 인스턴스 생성 하게되면 .pem 파일이 있음
 
  2. ~ 위치에서 .ssh폴더 생성   
@@ -28,7 +28,7 @@ tags:
 
  3. 키 파일을 .ssh 폴더로 이동   
  ```gangjinhuiui-MacBook-Pro:~ kangjinhee$ mv file이름.pem ./.ssh```
-
+```
 
 
 
