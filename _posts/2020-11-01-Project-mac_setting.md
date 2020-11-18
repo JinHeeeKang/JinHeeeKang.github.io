@@ -2,8 +2,7 @@
 title: \[환경 구축\]\[macOS\] 맥에서 AWS ssh로 접속, vscode 연결하기
 
 categories:
-- Project
-- 세팅
+- setting
 
 tags:
   
