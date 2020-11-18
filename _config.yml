@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/IMG_1863.JPG"
   bio    : "차근차근 하나씩 화이팅"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+#     - label: "Website"
+#       icon: "fas fa-fw fa-link"
+#       url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JinHeeeKang"
