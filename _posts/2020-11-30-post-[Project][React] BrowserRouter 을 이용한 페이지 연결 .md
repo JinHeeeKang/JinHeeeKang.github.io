@@ -9,7 +9,10 @@ tags:
   
 ---
 
+
+
 # 코드
+
 
 ```
 
@@ -55,7 +58,12 @@ ReactDOM.render(
 
 ```
 
+
+
+
 # 설명
+
+
 - ```<BrowserRoute />``` : HTML5의 history API를 활용하여 UI를 업데이트
 - ```<Switch />``` : 하위 라우터 중 하나를 선택, path의 충돌 방지
 - ```<Route path="/index" render={(props) => <Index {...props} />} />``` : 해당 path(/index)로 Request이 오면 해당 컴포넌트(Index) 렌더링한다
