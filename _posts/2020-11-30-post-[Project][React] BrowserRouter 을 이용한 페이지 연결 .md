@@ -9,6 +9,8 @@ tags:
   
 ---
 
+# 코드
+
 ```
 
 import React from "react";
@@ -25,10 +27,8 @@ import "assets/demo/nucleo-icons-page-styles.css";
 
 // pages for this kit
 import Index from "views/Index.js";
-
 import Imagemasking from "views/examples/Imagemasking.js";
 import Imageselect from "views/examples/Imageselect.js";
-
 import Modeling from "views/examples/modeling.js";
 import Image_Gallery from "views/examples/gallery.js";
 
@@ -39,11 +39,11 @@ ReactDOM.render(
       <Switch>
         <Route path="/index" render={(props) => <Index {...props} />} />
   
-        
         <Route path="/Imagemasking" render={(props) => <Imagemasking {...props} />} />
         <Route path="/Imageselect" render={(props) => <Imageselect {...props} />} />
         <Route path="/Modeling" render={(props) => <Modeling {...props} />} />
         <Route path="/Image_Gallery" render={(props) => <Image_Gallery {...props} />} /> 
+
 
         <Redirect to="/index" />
         <Redirect from="/" to="/index" />
@@ -54,5 +54,8 @@ ReactDOM.render(
 );
 
 
-
 ```
+
+# 설명
+- ```<Route path="/index" render={(props) => <Index {...props} />} />``` : 해당 path(/index)로 Request이 오면 해당 컴포넌트(Index) 렌더링한다
+- ```<Redirect to="/index" />``` : 잘못된 주소로 들어오면 /index로 이동
