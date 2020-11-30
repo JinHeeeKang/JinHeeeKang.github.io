@@ -36,7 +36,6 @@ import Image_Gallery from "views/examples/gallery.js";
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
-      <Switch>
         <Route path="/index" render={(props) => <Index {...props} />} />
   
         <Route path="/Imagemasking" render={(props) => <Imagemasking {...props} />} />
@@ -47,7 +46,7 @@ ReactDOM.render(
 
         <Redirect to="/index" />
         <Redirect from="/" to="/index" />
-      </Switch>
+      
     </Switch>
   </BrowserRouter>,
   document.getElementById("root")
@@ -57,5 +56,8 @@ ReactDOM.render(
 ```
 
 # 설명
+- ```<BrowserRoute />``` : HTML5의 history API를 활용하여 UI를 업데이트
+- ```<Switch />``` : 하위 라우터 중 하나를 선택, path의 충돌 방지
 - ```<Route path="/index" render={(props) => <Index {...props} />} />``` : 해당 path(/index)로 Request이 오면 해당 컴포넌트(Index) 렌더링한다
 - ```<Redirect to="/index" />``` : 잘못된 주소로 들어오면 /index로 이동
+
