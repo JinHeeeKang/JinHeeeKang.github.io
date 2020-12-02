@@ -43,8 +43,8 @@ master 대신 main을 사용하는 것으로 바뀌었는데 모르고 master �
     
 # 해결
     
-- 브랜치 이동                  
-```git checkout master```
+                
+```git checkout master``` :  브랜치 이동             
 ```git branch main master -f```        
 ```git checkout main```        
 ```git push origin main -f```        
